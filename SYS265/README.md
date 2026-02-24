@@ -1,0 +1,2 @@
+hostname
+mgmt01
